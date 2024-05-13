@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: "Modular", sans-serif;
-    src: url(../fonts/modular/MODULAR-4.otf);
+    src: url(../fonts/modular/MODULAR-1.otf);
     font-weight: 200;
 }
 
 @font-face {
     font-family: "Modular11", sans-serif;
-    src: url(../fonts/modular/MODULAR-11.otf);
+    src: url(../fonts/modular/MODULAR-4.otf);
     font-weight: 400;
 }
 
@@ -88,6 +88,11 @@ img.svg {
     padding: 0 40px;
     position: relative;
     clear: both
+}
+
+
+.dacontent{
+    font-size: 17px;
 }
 
 h1,
