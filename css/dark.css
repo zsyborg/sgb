@@ -67,7 +67,7 @@ body.dark .loader_line:after {
 }
 
 body.dark {
-    background-color: #34353a;
+    background-color: #000;
     color: #bbb
 }
 
@@ -81,7 +81,7 @@ body.dark h6 {
 }
 
 body.dark .tokyo_tm_all_wrap .leftpart {
-    background-color: #494b50
+    background-color: #121212;
 }
 
 body.dark .tokyo_tm_all_wrap .leftpart .menu ul li a {
@@ -109,7 +109,7 @@ body.dark .tokyo_tm_all_wrap .leftpart .copyright a:hover {
 }
 
 body.dark .tokyo_tm_all_wrap .rightpart {
-    background-color: #34353a
+    background-color: #212121;
 }
 
 body.dark .tokyo_tm_all_wrap .rightpart_in {
