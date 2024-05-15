@@ -666,11 +666,12 @@ a {
 }
 
 .tokyo_tm_about {
-    width: 100%;
+    width: 50%;
     height: auto;
     clear: both;
     float: left;
-    padding: 100px 0
+    padding: 100px 0;
+    text-align: justify;
 }
 
 .tokyo_tm_button {
