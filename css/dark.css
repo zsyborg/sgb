@@ -390,11 +390,11 @@ body.dark .tokyo_tm_about .about_title {
 }
 
 body.dark .tokyo_tm_about .about_text {
-    border-bottom-color: rgba(255, 255, 255, .1)
+    /* border-bottom-color: rgba(255, 255, 255, .1) */
 }
 
 body.dark .tokyo_tm_short_info {
-    border-bottom-color: rgba(255, 255, 255, .1)
+    /* border-bottom-color: rgba(255, 255, 255, .1) */
 }
 
 body.dark .tokyo_tm_info ul li span:first-child {
